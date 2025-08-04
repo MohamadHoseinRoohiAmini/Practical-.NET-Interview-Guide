@@ -1,6 +1,6 @@
-@PracticalDotNetInterviewGuide_HostAddress = http://localhost:5046
+@PracticalDotNetInterviewGuide_HostAddress = http://localhost:7087
 
-GET {{PracticalDotNetInterviewGuide_HostAddress}}/weatherforecast/
+GET {{PracticalDotNetInterviewGuide_HostAddress}}/book/
 Accept: application/json
 
 ###
