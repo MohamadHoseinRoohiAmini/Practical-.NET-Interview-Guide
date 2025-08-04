@@ -1,6 +1,6 @@
 # Practical .NET Interview Guide
 
-![.NET Interview Guide](https://via.placeholder.com/1200x400.png)  
+![.NET Interview Guide]
 _An interactive guide for mastering .NET concepts and preparing for interviews_
 
 **Practical .NET Interview Guide** is a comprehensive project designed to help developers prepare for .NET job interviews with hands-on, real-world examples. Whether you're just starting out or looking to sharpen your skills, this guide covers everything you need to excel in .NET technical interviews.
@@ -57,15 +57,6 @@ This project is **open-source**, and contributions are highly encouraged! Here�
 5. Open a pull request.
 
 I would be **happy to review your pull requests**, and together we can make this project even better for the whole community! Feel free to contribute **new content**, **bug fixes**, or even **improvements** in existing sections.
-
----
-
-## 📸 **Screenshots**
-
-Here’s a preview of how some of the project elements might look:
-
-![Example Screenshot](https://via.placeholder.com/1200x600.png)  
-_An example of how the practical implementation might look in the project_
 
 ---
 
